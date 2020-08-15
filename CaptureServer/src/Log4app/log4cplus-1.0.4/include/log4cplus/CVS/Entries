@@ -1,0 +1,26 @@
+/appender.h/1.1/Mon Mar  3 08:34:40 2014//
+/config.h.in/1.1/Mon Mar  3 08:34:40 2014//
+/config.hxx/1.1/Mon Mar  3 08:34:40 2014//
+/configurator.h/1.1/Mon Mar  3 08:34:40 2014//
+/consoleappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/fileappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/fstreams.h/1.1/Mon Mar  3 08:34:40 2014//
+/hierarchy.h/1.1/Mon Mar  3 08:34:40 2014//
+/hierarchylocker.h/1.1/Mon Mar  3 08:34:40 2014//
+/layout.h/1.1/Mon Mar  3 08:34:40 2014//
+/logger.h/1.1/Mon Mar  3 08:34:40 2014//
+/loggingmacros.h/1.1/Mon Mar  3 08:34:40 2014//
+/loglevel.h/1.1/Mon Mar  3 08:34:40 2014//
+/ndc.h/1.1/Mon Mar  3 08:34:40 2014//
+/nteventlogappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/nullappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/socketappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/streams.h/1.1/Mon Mar  3 08:34:40 2014//
+/syslogappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/tstring.h/1.1/Mon Mar  3 08:34:40 2014//
+/version.h/1.1/Mon Mar  3 08:34:40 2014//
+/win32consoleappender.h/1.1/Mon Mar  3 08:34:40 2014//
+/win32debugappender.h/1.1/Mon Mar  3 08:34:40 2014//
+D/config////
+D/helpers////
+D/spi////

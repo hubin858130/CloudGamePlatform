@@ -1,0 +1,8 @@
+﻿  Base64Codec.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\x64\Debug\Base64Codec.lib
+  系统找不到指定的路径。
+  已复制         0 个文件。
+  系统找不到指定的文件。
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: 命令“copy /y .\Base64CodecApi.h ..\..\..\..\Common\Other\Base64Codec\Include\Base64CodecApi.h
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: copy /y ..\Debug\Base64Codec.lib ..\..\..\..\Common\Other\Base64Codec\Windows\Debug\Base64Codec.lib
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd”已退出，代码为 1。

@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  CaptureServerManger.cpp
+  systemutil.cpp
+systemutil.cpp(356): warning C4800: “SYSTEMUTIL::BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+systemutil.cpp(538): warning C4800: “SYSTEMUTIL::BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+systemutil.cpp(544): warning C4800: “SYSTEMUTIL::BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CaptureServerManger.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\CaptureServerManger\../../bin\CaptureServerManger.exe
+  CaptureServerManger.vcxproj -> ../../bin\CaptureServerManger.pdb (Full PDB)

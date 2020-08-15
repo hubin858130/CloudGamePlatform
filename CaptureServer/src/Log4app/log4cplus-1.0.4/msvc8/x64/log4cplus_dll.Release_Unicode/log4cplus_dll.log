@@ -1,0 +1,91 @@
+﻿生成启动时间为 2017/6/20 11:11:25。
+     1>项目“D:\recognition\tools\Log4app\log4cplus-1.0.4\msvc8\log4cplus_dll.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\include /Zi /nologo /W3 /WX- /O2 /Ob2 /GL /D NDEBUG /D WIN32 /D _WINDOWS /D _USRDLL /D LOG4CPLUS_BUILD_DLL /D INSIDE_LOG4CPLUS /D _SCL_SECURE_NO_DEPRECATE /D _CRT_SECURE_NO_DEPRECATE /D _CRT_SECURE_NO_WARNINGS /D _WINDLL /D _UNICODE /D UNICODE /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\.\x64\log4cplus_dll.Release_Unicode\\" /Fd".\.\x64\log4cplus_dll.Release_Unicode\vc120.pdb" /Gd /TP /errorReport:prompt ..\src\appender.cxx ..\src\appenderattachableimpl.cxx ..\src\configurator.cxx ..\src\factory.cxx ..\src\filter.cxx "..\src\global-init.cxx" ..\src\hierarchy.cxx ..\src\hierarchylocker.cxx ..\src\layout.cxx ..\src\logger.cxx ..\src\loggerimpl.cxx ..\src\loggingevent.cxx ..\src\loglevel.cxx ..\src\loglog.cxx ..\src\logloguser.cxx ..\src\ndc.cxx ..\src\objectregistry.cxx ..\src\patternlayout.cxx ..\src\pointer.cxx ..\src\property.cxx ..\src\rootlogger.cxx ..\src\sleep.cxx "..\src\socket-win32.cxx" ..\src\socket.cxx ..\src\socketbuffer.cxx ..\src\stringhelper.cxx ..\src\syncprims.cxx ..\src\threads.cxx ..\src\timehelper.cxx ..\src\version.cxx ..\src\consoleappender.cxx ..\src\fileappender.cxx ..\src\nteventlogappender.cxx ..\src\nullappender.cxx ..\src\socketappender.cxx ..\src\win32consoleappender.cxx ..\src\win32debugappender.cxx
+         appender.cxx
+         appenderattachableimpl.cxx
+         configurator.cxx
+         factory.cxx
+         filter.cxx
+         global-init.cxx
+         hierarchy.cxx
+         hierarchylocker.cxx
+         layout.cxx
+         logger.cxx
+         loggerimpl.cxx
+         loggingevent.cxx
+         loglevel.cxx
+         loglog.cxx
+         logloguser.cxx
+         ndc.cxx
+         objectregistry.cxx
+         patternlayout.cxx
+         pointer.cxx
+         property.cxx
+         正在编译...
+         rootlogger.cxx
+         sleep.cxx
+         socket-win32.cxx
+         socket.cxx
+         socketbuffer.cxx
+         stringhelper.cxx
+         syncprims.cxx
+         threads.cxx
+         timehelper.cxx
+         version.cxx
+         consoleappender.cxx
+         fileappender.cxx
+         nteventlogappender.cxx
+         nullappender.cxx
+         socketappender.cxx
+         win32consoleappender.cxx
+         win32debugappender.cxx
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1186,5): warning MSB8012: TargetPath(D:\recognition\tools\Log4app\log4cplus-1.0.4\msvc8\.\x64\log4cplus_dll.Release_Unicode\log4cplus_dll.dll) does not match the Linker's OutputFile property value (D:\recognition\tools\Log4app\log4cplus-1.0.4\msvc8\x64\log4cplus_dll.Release_Unicode\log4cplusU.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1188,5): warning MSB8012: TargetName(log4cplus_dll) does not match the Linker's OutputFile property value (log4cplusU). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:".\x64\log4cplus_dll.Release_Unicode\log4cplusU.dll" /INCREMENTAL:NO /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\x64\log4cplus_dll.Release_Unicode\log4cplus_dll.pdb" /OPT:REF /OPT:NOICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\.\x64\log4cplus_dll.Release_Unicode\log4cplusU.lib" /MACHINE:X64 /DLL .\.\x64\log4cplus_dll.Release_Unicode\appender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\appenderattachableimpl.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\configurator.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\factory.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\filter.obj
+         ".\.\x64\log4cplus_dll.Release_Unicode\global-init.obj"
+         .\.\x64\log4cplus_dll.Release_Unicode\hierarchy.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\hierarchylocker.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\layout.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\logger.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\loggerimpl.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\loggingevent.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\loglevel.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\loglog.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\logloguser.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\ndc.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\objectregistry.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\patternlayout.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\pointer.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\property.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\rootlogger.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\sleep.obj
+         ".\.\x64\log4cplus_dll.Release_Unicode\socket-win32.obj"
+         .\.\x64\log4cplus_dll.Release_Unicode\socket.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\socketbuffer.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\stringhelper.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\syncprims.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\threads.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\timehelper.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\version.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\consoleappender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\fileappender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\nteventlogappender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\nullappender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\socketappender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\win32consoleappender.obj
+         .\.\x64\log4cplus_dll.Release_Unicode\win32debugappender.obj
+            正在创建库 .\.\x64\log4cplus_dll.Release_Unicode\log4cplusU.lib 和对象 .\.\x64\log4cplus_dll.Release_Unicode\log4cplusU.exp
+         正在生成代码
+         已完成代码的生成
+         log4cplus_dll.vcxproj -> D:\recognition\tools\Log4app\log4cplus-1.0.4\msvc8\.\x64\log4cplus_dll.Release_Unicode\log4cplus_dll.dll
+     1>已完成生成项目“D:\recognition\tools\Log4app\log4cplus-1.0.4\msvc8\log4cplus_dll.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:33.07

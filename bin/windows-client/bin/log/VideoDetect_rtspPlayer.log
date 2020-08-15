@@ -1,0 +1,80 @@
+05/10/19 20:26:27 - [1036] - [huqb] nStatus == 6 ReStartRtsp. 
+05/10/19 20:26:27 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:27 - [5104] - recv failed:-1 
+05/10/19 20:26:28 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:28 - [15316] - recv failed:-1 
+05/10/19 20:26:28 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:28 - [14444] - recv failed:-1 
+05/10/19 20:26:29 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:29 - [12692] - recv failed:-1 
+05/10/19 20:26:29 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:29 - [14400] - recv failed:-1 
+05/10/19 20:26:30 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:30 - [8484] - recv failed:-1 
+05/10/19 20:26:30 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:30 - [16276] - recv failed:-1 
+05/10/19 20:26:31 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:31 - [17592] - recv failed:-1 
+05/10/19 20:26:31 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:31 - [9636] - recv failed:-1 
+05/10/19 20:26:32 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:32 - [15188] - recv failed:-1 
+05/10/19 20:26:32 - [10908] - Current status :TYPE_STATUS_NET_LOST 
+05/10/19 20:26:32 - [18564] - recv failed:-1 
+05/10/19 20:26:34 - [18564] - recv failed:-1 
+05/10/19 20:26:34 - [15188] - recv failed:-1 
+08/15/20 16:05:16 - [11556] - [huqb] nStatus == 6 ReStartRtsp. 
+08/15/20 16:05:16 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:16 - [6448] - recv failed:-1 
+08/15/20 16:05:17 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:17 - [3084] - recv failed:-1 
+08/15/20 16:05:17 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:17 - [3340] - recv failed:-1 
+08/15/20 16:05:18 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:18 - [5132] - recv failed:-1 
+08/15/20 16:05:18 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:18 - [6184] - recv failed:-1 
+08/15/20 16:05:19 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:19 - [428] - recv failed:-1 
+08/15/20 16:05:19 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:19 - [4232] - recv failed:-1 
+08/15/20 16:05:20 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:20 - [11764] - recv failed:-1 
+08/15/20 16:05:20 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:20 - [5268] - recv failed:-1 
+08/15/20 16:05:21 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:21 - [8512] - recv failed:-1 
+08/15/20 16:05:21 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:21 - [12220] - recv failed:-1 
+08/15/20 16:05:22 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:22 - [7508] - recv failed:-1 
+08/15/20 16:05:22 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:22 - [6700] - recv failed:-1 
+08/15/20 16:05:23 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:23 - [6320] - recv failed:-1 
+08/15/20 16:05:23 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:23 - [4016] - recv failed:-1 
+08/15/20 16:05:24 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:24 - [1056] - recv failed:-1 
+08/15/20 16:05:24 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:24 - [1844] - recv failed:-1 
+08/15/20 16:05:25 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:25 - [8940] - recv failed:-1 
+08/15/20 16:05:25 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:25 - [13424] - recv failed:-1 
+08/15/20 16:05:26 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:26 - [6632] - recv failed:-1 
+08/15/20 16:05:26 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:26 - [12524] - recv failed:-1 
+08/15/20 16:05:27 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:27 - [8864] - recv failed:-1 
+08/15/20 16:05:27 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:27 - [11884] - recv failed:-1 
+08/15/20 16:05:28 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:28 - [7108] - recv failed:-1 
+08/15/20 16:05:28 - [13824] - Current status :TYPE_STATUS_NET_LOST 
+08/15/20 16:05:28 - [7960] - recv failed:-1 
+08/15/20 16:05:28 - [11556] - [huqb] nStatus == 6 ReStartRtsp. 
+08/15/20 16:05:30 - [7108] - recv failed:-1 
+08/15/20 16:05:30 - [7960] - recv failed:-1 
+08/15/20 16:07:19 - [14244] - recv failed:-1 

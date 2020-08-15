@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  CaputreWindows.cpp
+CaputreWindows.cpp(274): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  MutexImp_Win32.cpp
+  Base.cpp
+  ScreenCapture.cpp
+  ScreenCaptureDuplicateOutputDirect3D11.cpp
+screencapture\ScreenCaptureDuplicateOutputDirect3D11.cpp(249): warning C4018: “>=”: 有符号/无符号不匹配
+screencapture\ScreenCaptureDuplicateOutputDirect3D11.cpp(482): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+screencapture\ScreenCaptureDuplicateOutputDirect3D11.cpp(518): warning C4018: “<”: 有符号/无符号不匹配
+screencapture\ScreenCaptureDuplicateOutputDirect3D11.cpp(596): warning C4018: “<”: 有符号/无符号不匹配
+  ScreenCapturePointerDirect3D11.cpp
+screencapture\ScreenCapturePointerDirect3D11.cpp(479): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  ScreenCaptureRendererDirect3D11.cpp
+screencapture\ScreenCaptureRendererDirect3D11.cpp(498): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+screencapture\ScreenCaptureRendererDirect3D11.cpp(499): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+  ScreenCaptureUtilsDirect3D11.cpp
+  Types.cpp
+  Utils.cpp
+screencapture\Utils.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Timer.cpp
+  Util.cpp
+  WinCaptureAndEncodeLib.cpp
+  dllmain.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\WinCaptureAndEncodeLib.dll) does not match the Linker's OutputFile property value (C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\bin\WinCaptureAndEncodeLib.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 ../../lib/Release/WinCaptureAndEncodeLib.lib 和对象 ../../lib/Release/WinCaptureAndEncodeLib.exp
+  正在生成代码
+  All 664 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WinCaptureAndEncodeLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\WinCaptureAndEncodeLib.dll
+  WinCaptureAndEncodeLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\WinCaptureAndEncodeLib.pdb (Full PDB)

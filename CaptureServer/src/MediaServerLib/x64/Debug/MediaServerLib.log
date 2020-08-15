@@ -1,0 +1,59 @@
+﻿  xop.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\xop.cpp(22): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  Timestamp.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\timestamp.cpp(28): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  Timer.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\timer.cpp(93): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  TcpSocket.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\tcpsocket.cpp(88): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  TcpServer.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\tcpserver.cpp(42): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  TcpConnection.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\tcpconnection.cpp(144): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  SocketUtil.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\socketutil.cpp(144): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  SelectTaskScheduler.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\selecttaskscheduler.cpp(212): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  Pipe.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\pipe.cpp(81): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  NetInterface.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\netinterface.cpp(88): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  Logger.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\logger.cpp(86): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  EventLoop.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\eventloop.cpp(129): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  EpollTaskScheduler.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\epolltaskscheduler.cpp(109): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  BufferWriter.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\bufferwriter.cpp(83): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  BufferReader.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\bufferreader.cpp(75): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  Acceptor.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\acceptor.cpp(46): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  RtspServer.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtspserver.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtspserver.cpp(138): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  RtspRequest.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtsprequest.cpp(370): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  RtspConnection.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtspconnection.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtspconnection.cpp(432): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  RtpConnection.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtpconnection.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\rtpconnection.cpp(282): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...
+  正在编译...
+  MediaSession.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\mediasession.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\mediasession.cpp(231): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  H265Source.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\h265source.cpp(119): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  H264Source.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\h264source.cpp(120): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  G711ASource.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\g711asource.cpp(67): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  AACSource.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\aacsource.cpp(113): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  MediaServerLib.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\mediaserverlib.cpp(8): fatal error C1083: 无法打开包括文件: “RtspServer.h”: No such file or directory
+  正在生成代码...

@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  AppEncD3D11.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\nencoderlib\nvencoder\nvEncodeAPI.h(637): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  NEncoderLib.cpp
+  NvEncoder.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\nencoderlib\nvencoder\nvEncodeAPI.h(637): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  NvEncoderD3D11.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\nencoderlib\nvencoder\nvEncodeAPI.h(637): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Timer.cpp
+  dllmain.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\NEncoderLib.dll) does not match the Linker's OutputFile property value (C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\bin\NEncoderLib.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 ../../lib/Release/NEncoderLib.lib 和对象 ../../lib/Release/NEncoderLib.exp
+  正在生成代码
+  All 1501 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  NEncoderLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\NEncoderLib.dll
+  NEncoderLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\NEncoderLib.pdb (Full PDB)

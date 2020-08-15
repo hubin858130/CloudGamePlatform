@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Debug\NEncoderLib.dll) does not match the Linker's OutputFile property value (C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\bin\NEncoderLib.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  NEncoderLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Debug\NEncoderLib.dll
+  NEncoderLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Debug\NEncoderLib.pdb (Full PDB)

@@ -1,0 +1,45 @@
+﻿  win32debugappender.cxx
+  win32consoleappender.cxx
+  socketappender.cxx
+  nullappender.cxx
+  nteventlogappender.cxx
+  fileappender.cxx
+  consoleappender.cxx
+  version.cxx
+  timehelper.cxx
+  threads.cxx
+  syncprims.cxx
+  stringhelper.cxx
+  socketbuffer.cxx
+  socket.cxx
+  socket-win32.cxx
+  sleep.cxx
+  rootlogger.cxx
+  property.cxx
+  pointer.cxx
+  patternlayout.cxx
+  正在生成代码...
+  正在编译...
+  objectregistry.cxx
+  ndc.cxx
+  logloguser.cxx
+  loglog.cxx
+  loglevel.cxx
+  loggingevent.cxx
+  loggerimpl.cxx
+  logger.cxx
+  layout.cxx
+  hierarchylocker.cxx
+..\src\hierarchylocker.cxx(66): warning C4297: “log4cplus::HierarchyLocker::~HierarchyLocker”: 假定函数不引发异常，但确实发生了
+  ..\src\hierarchylocker.cxx(66): note: 析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+  hierarchy.cxx
+  global-init.cxx
+  filter.cxx
+  factory.cxx
+  configurator.cxx
+  appenderattachableimpl.cxx
+  appender.cxx
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Log4app\log4cplus-1.0.4\msvc8\..\..\..\..\lib\log4app\win32\debug\log4cplus_static.lib) does not match the Library's OutputFile property value (C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\lib\log4app\win32\debug\log4cplusSD.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(log4cplus_static) does not match the Library's OutputFile property value (log4cplusSD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  log4cplus_static.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Log4app\log4cplus-1.0.4\msvc8\..\..\..\..\lib\log4app\win32\debug\log4cplus_static.lib

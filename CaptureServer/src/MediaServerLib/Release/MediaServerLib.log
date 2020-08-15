@@ -1,0 +1,113 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MediaServerLib.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSession.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\MediaServerLib\src\H264Source.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\MediaServerLib\src\AACSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+  MutexImp_Win32.cpp
+  AACSource.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\AACSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  G711ASource.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\G711ASource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  H264Source.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\H264Source.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  H265Source.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\H265Source.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MediaSession.cpp
+src\MediaSession.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSession.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop/RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+src\MediaSession.cpp(115): warning C4477: “snprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“time_t”
+  src\MediaSession.cpp(115): note: 请考虑在格式字符串中使用“%lld”
+  src\MediaSession.cpp(115): note: 请考虑在格式字符串中使用“%I64d”
+  RtpConnection.cpp
+src\RtpConnection.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\RtspRequest.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop/BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+src\RtpConnection.cpp(33): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+src\RtpConnection.cpp(34): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+src\RtpConnection.cpp(164): warning C4477: “snprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 3 拥有了类型“uint64_t”
+  src\RtpConnection.cpp(164): note: 请考虑在格式字符串中使用“%llu”
+  src\RtpConnection.cpp(164): note: 请考虑在格式字符串中使用“%I64u”
+  RtspConnection.cpp
+src\RtspConnection.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\RtspRequest.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop/BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSession.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  RtspRequest.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\RtspRequest.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  RtspServer.cpp
+src\RtspServer.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSession.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\media.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\MediaSource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\RtspRequest.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop/BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+  Acceptor.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  BufferReader.cpp
+  BufferWriter.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+src\xop\BufferWriter.cpp(18): warning C4018: “>=”: 有符号/无符号不匹配
+src\xop\BufferWriter.cpp(32): warning C4018: “>=”: 有符号/无符号不匹配
+  EpollTaskScheduler.cpp
+  EventLoop.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+src\xop\EventLoop.cpp(42): warning C4244: “参数”: 从“int64_t”转换到“int”，可能丢失数据
+  Logger.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Logger.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  NetInterface.cpp
+  Pipe.cpp
+  SelectTaskScheduler.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在编译...
+  SocketUtil.cpp
+  TcpConnection.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TcpServer.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TcpSocket.cpp
+  Timer.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Timestamp.cpp
+  xop.cpp
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\BufferWriter.h(26): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\Timer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hubin\desktop\zhangbushuai\captureserver\src\mediaserverlib\src\xop\RingBuffer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\MediaServerLib.lib 和对象 C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\MediaServerLib.exp
+  正在生成代码
+  All 4498 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MediaServerLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\MediaServerLib.dll
+  MediaServerLib.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\MediaServerLib.pdb (Full PDB)

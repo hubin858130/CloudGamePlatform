@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Base64CodecApi.cpp
+Base64CodecApi.cpp(30): warning C4838: 从“int”转换到“const char”需要收缩转换
+Base64CodecApi.cpp(30): warning C4309: “初始化”: 截断常量值
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\Base64Codec.lib) does not match the Library's OutputFile property value (C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\lib\base64\release\Base64Codec.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Base64Codec.vcxproj -> C:\Users\hubin\Desktop\zhangbushuai\CaptureServer\src\Release\Base64Codec.lib
