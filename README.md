@@ -79,7 +79,7 @@ b.用户端：
 
 5.直接运行相关
 	
-	我们的远程桌面服务器需要Nvidia显卡的支持，无论是gtx系列的或者是tesla系列的，首先管理员权限cmd运行\bin\remote-server\NvFBCHWEnableAPI -enable 打开nvidia卡的加速功能。
+	我们的远程桌面服务器需要Nvidia显卡的支持，无论是gtx系列的或者是tesla系列的，首先管理员权限cmd运行\bin\remote-server\NvFBCHWEnableAPI -enable 打开nvidia卡的加速功能。运行环境需要安装vc2015x86，虚拟机需要安装虚拟声卡VirtualAudioCable4.14.0.6871。
 	其次远程桌面服务器需要关闭windows防火墙，允许客户端连接上来。如果是云服务器需要配置好策略，开放tcp和udp端口。
 	1.远程服务器：\bin\remote-server\CaptureStreamServer.exe :远程桌面服务器支持win8.1以上系统或者同版本的windows server系统
 	2.windows客户端：bin\windows-client\bin\RemoteDesktopClient.exe,输入远程桌面的IP,点连接。
